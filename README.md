@@ -1,4 +1,4 @@
-# sales-dashboard-analysis
+# sales-Dashboard-analysis
 My Power BI Sales Analysis Project
 I analyzed a sales dataset… and found something most business owners ignore 👇
 
@@ -39,8 +39,6 @@ Conclusion
 Data is more than numbers; it reveals opportunities for growth, efficiency, and smarter decision-making.
 
 This project strengthened my ability to turn raw data into meaningful business insights that drive action.
-
-Special thanks to Mr.Ebi for his guidance throughout this project and to Jlux Academy for giving me the solid foundation in data analysis.
 
 If you have a messy dataset, we can work it out together 🤝
 
